@@ -1,0 +1,10 @@
+Simple Addition  of 2 numbers 
+num1= 13
+num2= 14
+sum = num1+num2
+print("the addition of 2 numbers is:",sum)
+
+the output will br like 
+the addition of 2 numbers is: 27
+
+stay tuned for day 3 😊🫴🏻
